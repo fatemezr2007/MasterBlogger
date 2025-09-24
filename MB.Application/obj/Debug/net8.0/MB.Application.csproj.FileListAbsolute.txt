@@ -1,0 +1,17 @@
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.AssemblyReference.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfoInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfo.cs
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.deps.json
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contracts.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contracts.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Appli.569D401C.Up2Date
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\refint\MB.Application.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\obj\Debug\net8.0\ref\MB.Application.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.pdb

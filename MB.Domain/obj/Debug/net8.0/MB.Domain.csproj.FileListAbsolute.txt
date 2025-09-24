@@ -1,0 +1,11 @@
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.deps.json
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfoInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfo.cs
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.CoreCompileInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\refint\MB.Domain.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll

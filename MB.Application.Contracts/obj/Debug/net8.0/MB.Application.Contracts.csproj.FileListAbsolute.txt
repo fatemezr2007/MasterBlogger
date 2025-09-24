@@ -1,0 +1,11 @@
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\bin\Debug\net8.0\MB.Application.Contracts.deps.json
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\bin\Debug\net8.0\MB.Application.Contracts.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\bin\Debug\net8.0\MB.Application.Contracts.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.AssemblyInfoInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.AssemblyInfo.cs
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\refint\MB.Application.Contracts.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Application.Contracts\obj\Debug\net8.0\ref\MB.Application.Contracts.dll
