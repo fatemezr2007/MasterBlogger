@@ -1,4 +1,5 @@
-﻿using MB.Domain.ArticleCateguryAgg.Services;
+﻿using MB.Domain.ArticleAgg;
+using MB.Domain.ArticleCateguryAgg.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace MB.Domain.ArticleCateguryAgg
     {
         public long Id { get; private set; }
         public string Title { get; private set; }
+        public ICollection<Article> Articles { get; set; }
         public bool IsDeleted { get; private set; }
         public DateTime CreationDate { get; private set; }
 
@@ -20,6 +22,7 @@ namespace MB.Domain.ArticleCateguryAgg
             validatorService.CheckThatThisRecordAlreadyExists(title);
 
             Title = title;
+            Articles = new List<Article>();
             IsDeleted = false;
             CreationDate = DateTime.Now;
         }
