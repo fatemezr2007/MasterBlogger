@@ -19,3 +19,4 @@ D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Inf
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\refint\MB.Infrastructure.Core.dll
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.pdb
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\ref\MB.Infrastructure.Core.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.sourcelink.json

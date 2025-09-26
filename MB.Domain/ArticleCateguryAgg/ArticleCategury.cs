@@ -16,6 +16,10 @@ namespace MB.Domain.ArticleCateguryAgg
         public bool IsDeleted { get; private set; }
         public DateTime CreationDate { get; private set; }
 
+        protected ArticleCategury()
+        {
+        }
+
         public ArticleCategury(string title, IArticleCateguryValidatorService validatorService)
         {
             GurdAgainsEmptyTitle(title);

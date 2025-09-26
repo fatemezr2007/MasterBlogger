@@ -99,3 +99,4 @@ D:\Asp.Net_Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net8.0\MB.Pr
 D:\Asp.Net_Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net8.0\MB.Prese.1E35E4E5.Up2Date
 D:\Asp.Net_Projects\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Core.dll
 D:\Asp.Net_Projects\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Core.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net8.0\MB.Presentation.MVCCore.sourcelink.json
