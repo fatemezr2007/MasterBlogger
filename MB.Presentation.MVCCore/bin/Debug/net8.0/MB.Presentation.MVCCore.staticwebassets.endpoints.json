@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 16:51:04 GMT"
+          "Value": "Thu, 02 Oct 2025 12:57:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,7 +74,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 16:51:04 GMT"
+          "Value": "Thu, 02 Oct 2025 12:57:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1803,6 +1803,88 @@
         {
           "Name": "label",
           "Value": "icons-reference/styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "img/Software.diq1mksv65.jpg",
+      "AssetFile": "img/Software.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i508lKySf0avvzosP6jg5cNqSclTK/yMHYJ+75jZzow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Oct 2025 12:24:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "diq1mksv65"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i508lKySf0avvzosP6jg5cNqSclTK/yMHYJ+75jZzow="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Software.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Software.jpg",
+      "AssetFile": "img/Software.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i508lKySf0avvzosP6jg5cNqSclTK/yMHYJ+75jZzow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Oct 2025 12:24:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i508lKySf0avvzosP6jg5cNqSclTK/yMHYJ+75jZzow="
         }
       ]
     },

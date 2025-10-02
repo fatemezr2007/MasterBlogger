@@ -13,9 +13,15 @@ namespace MB.Infrastructure.EFCore.Repositories
     public class ArticleRepository : IArticleRepository
     {
         private readonly MasterBloggerContext _context;
-        public ArticleRepository(MasterBloggerContext context)
+        public ArticleRepository(MasterBloggerContext context) 
         {
             _context = context;
+        }
+
+        public void CreateAndSave(Article entity)
+        {
+            _context.Articles.Add(entity);
+            _context.SaveChanges();
         }
 
         public List<ArticleViewModel> GetList()

@@ -46,6 +46,7 @@ wwwroot\img\logo-white.png
 wwwroot\img\small-thumbnail-1.jpg
 wwwroot\img\small-thumbnail-2.jpg
 wwwroot\img\small-thumbnail-3.jpg
+wwwroot\img\Software.jpg
 wwwroot\img\template-mac.png
 wwwroot\img\user.svg
 wwwroot\js\front.js
