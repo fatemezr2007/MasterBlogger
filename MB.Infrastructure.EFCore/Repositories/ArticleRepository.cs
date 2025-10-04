@@ -13,7 +13,7 @@ namespace MB.Infrastructure.EFCore.Repositories
     public class ArticleRepository : IArticleRepository
     {
         private readonly MasterBloggerContext _context;
-        public ArticleRepository(MasterBloggerContext context) 
+        public ArticleRepository(MasterBloggerContext context)
         {
             _context = context;
         }
@@ -22,6 +22,11 @@ namespace MB.Infrastructure.EFCore.Repositories
         {
             _context.Articles.Add(entity);
             Save();
+        }
+
+        public bool Exists(string title)
+        {
+            return _context.Articles.Any(x => x.Title == title);
         }
 
         public Article Get(long id)

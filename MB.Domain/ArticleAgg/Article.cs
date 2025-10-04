@@ -23,8 +23,18 @@ namespace MB.Domain.ArticleAgg
         {
         }
 
+        private static void Validate(string title, long articleCateguryId)
+        {
+            if (string.IsNullOrWhiteSpace(title))
+                throw new ArgumentNullException();
+
+            if (articleCateguryId == 0)
+                throw new ArgumentOutOfRangeException();
+        }
+
         public Article(string title, string shortDescription, string image, string content, long articleCateguryId)
         {
+            Validate(title, articleCateguryId);
             Title = title;
             ShortDescription = shortDescription;
             Image = image;
@@ -36,6 +46,7 @@ namespace MB.Domain.ArticleAgg
 
         public void Edit(string title, string shortDescription, string image, string content, long articleCateguryId)
         {
+            Validate(title, articleCateguryId);
             Title = title;
             ShortDescription = shortDescription;
             Image = image;
