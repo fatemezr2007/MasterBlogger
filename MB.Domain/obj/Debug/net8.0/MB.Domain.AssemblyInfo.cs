@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MB.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b55e91538070b5d3bef8d8b014e00b89719c4aea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32b7cfc3a11963bfdbadf3868fb0b624c833853e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MB.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MB.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

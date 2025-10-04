@@ -16,6 +16,13 @@ namespace MB.Application
             _articleRepository = articleRepository;
         }
 
+        public void Activate(long id)
+        {
+            var article = _articleRepository.Get(id);
+            article.Activate();
+            _articleRepository.Save();
+        }
+
         public void Create(CreateArticle command)
         {
             var article = new Article(command.Title, command.ShortDescription, command.Image,
@@ -33,19 +40,27 @@ namespace MB.Application
         public EditArticle Get(long id)
         {
             var article = _articleRepository.Get(id);
-            return new EditArticle{
+            return new EditArticle
+            {
                 Id = article.Id,
-                Title=article.Title,
-                ShortDescription=article.ShortDescription,
-                Image=article.Image,
-                Content=article.Content,
-                ArticleCateguryId=article.ArticleCateguryId
+                Title = article.Title,
+                ShortDescription = article.ShortDescription,
+                Image = article.Image,
+                Content = article.Content,
+                ArticleCateguryId = article.ArticleCateguryId
             };
         }
 
         public List<ArticleViewModel> GetList()
         {
             return _articleRepository.GetList();
+        }
+
+        public void Remove(long id)
+        {
+            var article = _articleRepository.Get(id);
+            article.Remove();
+            _articleRepository.Save();
         }
     }
 }
