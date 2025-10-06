@@ -1,35 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Asp.Net_Projects\\MasterBlogger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\asp.net_projects\\masterblogger\\mb.presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\asp.net_projects\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\asp.net_projects\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net-Learn\\09-5-master-blogger-source\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\asp.net_projects\\masterblogger\\mb.infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\asp.net_projects\\masterblogger\\mb.infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\asp.net_projects\\masterblogger\\mb.infrastructure.query\\iarticlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48241A74-881E-4E72-A34E-4F6ABB8C4EEF}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\iarticlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -37,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,91 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\Index.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T00:25:00.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticleDetails.cshtml",
-              "DocumentMoniker": "D:\\asp.net-Learn\\09-5-master-blogger-source\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\asp.net-Learn\\09-5-master-blogger-source\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "ToolTip": "D:\\asp.net-Learn\\09-5-master-blogger-source\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeToolTip": "..\\..\\asp.net-Learn\\09-5-master-blogger-source\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T00:23:08.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleDetails.cshtml.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:20:51.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ArticleQuery.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\ArticleQuery.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\ArticleQuery.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\ArticleQuery.cs",
-              "RelativeToolTip": "MB.Infrastructure.Query\\ArticleQuery.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:18:54.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticleQueryView.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\ArticleQueryView.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\ArticleQueryView.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\ArticleQueryView.cs",
-              "RelativeToolTip": "MB.Infrastructure.Query\\ArticleQueryView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:18:30.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IArticleQuery.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\IArticleQuery.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\IArticleQuery.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.Query\\IArticleQuery.cs",
-              "RelativeToolTip": "MB.Infrastructure.Query\\IArticleQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:16:52.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArticleDetails.cshtml",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T00:15:52.485Z"
             }
           ]
         }
