@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Asp.Net_Projects\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E619511C-3EC7-4ECF-8B8C-BF0F9D136CBC}|MB.Application\\MB.Application.csproj|d:\\asp.net_projects\\masterblogger\\mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E619511C-3EC7-4ECF-8B8C-BF0F9D136CBC}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9DB0ED6-3F8A-4BF3-9C32-821D0F4D977F}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|d:\\asp.net_projects\\masterblogger\\mb.infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DB0ED6-3F8A-4BF3-9C32-821D0F4D977F}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\asp.net_projects\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465DEA7-B6AD-48AB-B785-C7483E54CBE0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CommentApplication.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Application\\CommentApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application\\CommentApplication.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Application\\CommentApplication.cs",
-              "RelativeToolTip": "MB.Application\\CommentApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Title": "ArticleDetails.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T14:52:20.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
-              "ToolTip": "D:\\Asp.Net_Projects\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T14:50:26.121Z",
+              "WhenOpened": "2025-10-09T17:00:51.833Z",
               "EditorCaption": ""
             }
           ]

@@ -24,7 +24,8 @@
                 <div class="post-footer d-flex align-items-center flex-column flex-sm-row">
                     <div class="d-flex align-items-center flex-wrap">
                         <div class="date">
-                            <i class="icon-clock"></i> @Model.Article.CreationDate</div>
+                            <i class="icon-clock"></i> @Model.Article.CreationDate
+                        </div>
                         <div class="comments meta-last"><i class="icon-comment"></i>12</div>
                     </div>
                 </div>
@@ -36,11 +37,11 @@
                 </div>
 
 
-                <div class="post-comments">
+               @*  <div class="post-comments">
                     <header>
-                        <h3 class="h6">Post Comments<span class="no-of-comments">12 Comments</span></h3>
+                        <h3 class="h6">Post Comments<span class="no-of-comments">(@Model.Article.CommentsCount)</span></h3>
                     </header>
-                   @*  @foreach (var comment in Model.Article.Comments)
+                    @foreach (var comment in Model.Article.Comments)
                     {
                         <div class="comment">
                             <div class="comment-header d-flex justify-content-between">
@@ -57,9 +58,9 @@
                                 <p>@comment.Message</p>
                             </div>
                         </div>
-                    } *@
+                    }
 
-                </div>
+                </div> *@
 
                 <div class="add-comment">
                     <header>
@@ -76,7 +77,7 @@
                             <div class="form-group col-md-12">
                                 <textarea name="Message" id="Message" placeholder="Type your comment" class="form-control"></textarea>
                             </div>
-                            <input type="hidden" name="ArticleId" value="@Model.Article.Id"/>
+                            <input type="hidden" name="ArticleId" value="@Model.Article.Id" />
                             <div class="form-group col-md-12">
                                 <button type="submit" class="btn btn-secondary">Submit Comment</button>
                             </div>
