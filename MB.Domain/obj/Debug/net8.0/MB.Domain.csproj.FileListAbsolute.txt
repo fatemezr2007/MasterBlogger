@@ -14,3 +14,5 @@ D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Cont
 D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contracts.pdb
 D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.AssemblyReference.cache
 D:\Asp.Net_Projects\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.Up2Date
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Domain\bin\Debug\net8.0\01_Framework.pdb

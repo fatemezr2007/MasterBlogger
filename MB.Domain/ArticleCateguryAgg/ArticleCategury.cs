@@ -1,4 +1,5 @@
-﻿using MB.Domain.ArticleAgg;
+﻿using _01_Framework.Domain;
+using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCateguryAgg.Services;
 using System;
 using System.Collections.Generic;
@@ -8,13 +9,11 @@ using System.Threading.Tasks;
 
 namespace MB.Domain.ArticleCateguryAgg
 {
-    public class ArticleCategury
+    public class ArticleCategury : DomainBase<long>
     {
-        public long Id { get; private set; }
         public string Title { get; private set; }
         public ICollection<Article> Articles { get; set; }
         public bool IsDeleted { get; private set; }
-        public DateTime CreationDate { get; private set; }
 
         protected ArticleCategury()
         {
@@ -28,7 +27,6 @@ namespace MB.Domain.ArticleCateguryAgg
             Title = title;
             Articles = new List<Article>();
             IsDeleted = false;
-            CreationDate = DateTime.Now;
         }
 
         public void GurdAgainsEmptyTitle(string title)

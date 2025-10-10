@@ -20,21 +20,21 @@ namespace MB.Application
         {
             var article = _articleRepository.Get(id);
             article.Activate();
-            _articleRepository.Save();
+            //_articleRepository.Save();
         }
 
         public void Create(CreateArticle command)
         {
             var article = new Article(command.Title, command.ShortDescription, command.Image,
                 command.Content, command.ArticleCateguryId);
-            _articleRepository.CreateAndSave(article);
+            _articleRepository.Create(article);
         }
 
         public void Edit(EditArticle command)
         {
             var artile = _articleRepository.Get(command.Id);
             artile.Edit(command.Title, command.ShortDescription, command.Image, command.Content, command.ArticleCateguryId);
-            _articleRepository.Save();
+            //_articleRepository.Save();
         }
 
         public EditArticle Get(long id)
@@ -60,7 +60,7 @@ namespace MB.Application
         {
             var article = _articleRepository.Get(id);
             article.Remove();
-            _articleRepository.Save();
+            //_articleRepository.Save();
         }
     }
 }

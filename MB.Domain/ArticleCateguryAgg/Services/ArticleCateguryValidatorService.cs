@@ -10,7 +10,7 @@
 
         public void CheckThatThisRecordAlreadyExists(string title)
         {
-            if (articleCateguryRepository.Exists(title))
+            if (articleCateguryRepository.Exists(x => x.Title == title))
                 throw new DuplicateWaitObjectException("This record already exists in database");
         }
     }

@@ -18,3 +18,5 @@ D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net8.0\MB.In
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net8.0\refint\MB.Infrastructure.Query.dll
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net8.0\MB.Infrastructure.Query.pdb
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net8.0\ref\MB.Infrastructure.Query.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net8.0\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net8.0\01_Framework.pdb

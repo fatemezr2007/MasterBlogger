@@ -22,7 +22,7 @@ namespace MB.Application
         public void Create(CreateArticleCategury command)
         {
             var articleCategury = new ArticleCategury(command.Title, articleCateguryValidatorService);
-            articleCateguryRepository.Add(articleCategury);
+            articleCateguryRepository.Create(articleCategury);
         }
 
         public RenameArticleCategury Get(long id)
@@ -38,34 +38,28 @@ namespace MB.Application
         public List<ArticleCateguryViewModel> List()
         {
             var articleCateguries = articleCateguryRepository.GetAll();
-            var result = new List<ArticleCateguryViewModel>();
-
-            foreach(var articleCategury in articleCateguries)
-            {
-                result.Add(new ArticleCateguryViewModel
-                {
-                    Id = articleCategury.Id,
-                    Title=articleCategury.Title,
-                    CreationDate=articleCategury.CreationDate.ToString(CultureInfo.InvariantCulture),
-                    IsDeleted=articleCategury.IsDeleted
-                });
-            }
-
-            return result;
+            return (from articleCategury in articleCateguries
+                    select new ArticleCateguryViewModel
+                    {
+                        Id = articleCategury.Id,
+                        Title = articleCategury.Title,
+                        CreationDate = articleCategury.CreationDate.ToString(CultureInfo.InvariantCulture),
+                        IsDeleted = articleCategury.IsDeleted
+                    }).OrderByDescending(x => x.Id).ToList();
         }
 
         public void Remove(long id)
         {
             var articleCategury = articleCateguryRepository.Get(id);
             articleCategury.Remove();
-            articleCateguryRepository.Save();
+            //articleCateguryRepository.Save();
         }
 
         public void Activate(long id)
         {
             var articleCategury = articleCateguryRepository.Get(id);
             articleCategury.Activate();
-            articleCateguryRepository.Save();
+            //articleCateguryRepository.Save();
         }
 
         public void Rename(RenameArticleCategury command)
@@ -73,7 +67,7 @@ namespace MB.Application
             var articleCategury = articleCateguryRepository.Get(command.Id);
             articleCategury.Rename(command.Title);
 
-            articleCateguryRepository.Save();
+            //articleCateguryRepository.Save();
         }
     }
 }

@@ -1,0 +1,13 @@
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\bin\Debug\net8.0\01_Framework.deps.json
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\bin\Debug\net8.0\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\bin\Debug\net8.0\01_Framework.pdb
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.AssemblyInfoInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.AssemblyInfo.cs
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.csproj.CoreCompileInputs.cache
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.sourcelink.json
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\refint\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.pdb
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\ref\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\01_Framework\obj\Debug\net8.0\01_Framework.csproj.AssemblyReference.cache

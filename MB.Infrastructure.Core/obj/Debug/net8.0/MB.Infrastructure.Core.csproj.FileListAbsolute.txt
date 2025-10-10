@@ -22,3 +22,5 @@ D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\ref\MB
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.sourcelink.json
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\MB.Infrastructure.Query.dll
 D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\MB.Infrastructure.Query.pdb
+D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\01_Framework.dll
+D:\Asp.Net_Projects\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\01_Framework.pdb
