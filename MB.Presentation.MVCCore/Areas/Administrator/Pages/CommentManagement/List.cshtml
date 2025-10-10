@@ -50,17 +50,18 @@
                             @if (comment.Status == Statuses.New)
                             {
                                 <form method="post" asp-page-handler="Confirm" class="float-left">
-    <button class="btn btn-success">Confirm</button>
-    <input type="hidden" name="id" value="@comment.Id" />
-</form>
-<form method="post" asp-page-handler="Cancel" class="float-left" style="margin-left: 10px;">
-    <button class="btn btn-danger">Cancel</button>
-    <input type="hidden" name="id" value="@comment.Id" />
-</form>
+                                    <button class="btn btn-success">Confirm</button>
+                                    <input type="hidden" name="id" value="@comment.Id" />
+                                </form>
+                                <form method="post" asp-page-handler="Cancel" class="float-left" style="margin-left: 10px;">
+                                    <button class="btn btn-danger">Cancel</button>
+                                    <input type="hidden" name="id" value="@comment.Id" />
+                                </form>
 
                             }
                         </td>
                     </tr>
+                }
                 }
             </tbody>
         </table>
