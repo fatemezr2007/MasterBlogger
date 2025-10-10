@@ -23,10 +23,9 @@
                 </h1>
                 <div class="post-footer d-flex align-items-center flex-column flex-sm-row">
                     <div class="d-flex align-items-center flex-wrap">
-                        <div class="date">
+                        <div>
                             <i class="icon-clock"></i> @Model.Article.CreationDate
                         </div>
-                        <div class="comments meta-last"><i class="icon-comment"></i>12</div>
                     </div>
                 </div>
                 <div class="post-body">
@@ -39,7 +38,6 @@
 
                 <div class="post-comments">
                     <header>
-                        <h3 class="h6">Post Comments<span class="no-of-comments">(@Model.Article.CommentsCount)</span></h3>
                     </header>
                     @foreach (var comment in Model.Article.Comments)
                     {
